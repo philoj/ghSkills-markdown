@@ -7,6 +7,6 @@
 if code==fun { let usDoIt; }
 ```
 
-[x] Read about github skills
-[x] Jump in to start a skill course
-[ ] Complete it
+- [x] Read about github skills
+- [x] Jump in to start a skill course
+- [ ] Complete it
